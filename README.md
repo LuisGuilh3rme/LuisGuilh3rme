@@ -1,5 +1,5 @@
 <h1 align="center">I'm Luis Guilherme</h1>
-<h3 align="center">Studying to become a full-stack developer</h3>
+<h3 align="center">Studying to become a back-end developer</h3>
 
 <p align="left">
 </p>
